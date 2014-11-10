@@ -5,7 +5,7 @@ A simple, lightweight pi-cross game (a.k.a. paint-by-numbers, nonograms)
 
 This is a proof-of-concept yet fully-functional Pi-cross game.
 
-** Try it out here: http://mproud.com/picross **
+**Try it out now:** http://mproud.com/picross
 
 ## How to play
 
