@@ -1,6 +1,8 @@
 Picross
 =======
 
+![Picross Image](/images/preview.png)
+
 A simple, lightweight pi-cross game (a.k.a. paint-by-numbers, nonograms)
 
 This is a proof-of-concept yet fully-functional Pi-cross game.
