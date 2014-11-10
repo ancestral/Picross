@@ -10,18 +10,19 @@ This is a proof-of-concept yet fully-functional Pi-cross game.
 ## How to play
 
 ### Basics
-* Click on the square to paint it
-* Click on a painted square to erase
 
-### Modes
+The numbers tell you the group of consecutive, solid color squares, separated by one or more white squares.
 
 At the top left of the page you can see two modes:
 
 * Pencil mode is used to fill or erase a square
 * X mode is used to denote no fill for a square
 
+Simply click a painted square to fill, x, or erase a square.
+
 ## To Do
 
+* Add highlight to vertical header
 * Alert the user when a puzzle is solved
 * Add puzzles and a browser to choose from them
 * Consider adding better mobile support when painting multiple squares
