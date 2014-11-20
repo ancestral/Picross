@@ -3,7 +3,7 @@ $(function() {
   var isOn = false;
   
   var puzzle = [];
-  $.getJSON('puzzles/example2.json').done(function(data) {
+  $.getJSON('puzzles/soccer.json').done(function(data) {
     puzzle = data;
     var line = '<table><tr id="header"><th>';
     $.each(puzzle.column, function(i, v) {
